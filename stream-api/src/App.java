@@ -53,7 +53,7 @@ public class App {
     }
 
     public static void main(String[] args) throws Exception {
-        App app = new App();
+        Main app = new Main();
 
         System.out.println("Números em ordem crescente: " + app.numerosEmOrdemCrescente());
         System.out.println("A soma dos números pares é: " + app.somaNumerosPares());
